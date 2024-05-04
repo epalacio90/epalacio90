@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 About me: Find everything about me in https://epalacio.com.mx
+😄 About me: Find everything about me in https://epalacio.com.mx \
 📫 How to reach me: Send an email to contact@epalacio.com.mx

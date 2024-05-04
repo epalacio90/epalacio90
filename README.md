@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 😄 About me: Find everything about me in https://epalacio.com.mx \
 📫 How to reach me: Send an email to contact@epalacio.com.mx
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=epalacio90&theme=dark&background=000000)](https://git.io/streak-stats)

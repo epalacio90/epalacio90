@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <!--
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 📫 How to reach me: Send an email to contact@epalacio.com.mx
 
 ### :fire: My Stats :
-<div align="center">
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=epalacio90&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>

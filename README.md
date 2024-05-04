@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me: Send an email to contact@epalacio.com.mx
 
 ### :fire: My Stats :
+<div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=epalacio90&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=epalacio90&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+</div>
